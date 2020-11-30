@@ -1,0 +1,121 @@
+.square{
+	
+	width:200px;
+	height:200px;
+	background: #A52A2A;
+	position:absolute;
+	left:40px;
+	top:90px;
+	
+}
+.reactangle{
+	
+	width:250px;
+	height:125px;
+	background: #00008B;
+	position:absolute;
+	right:30px;
+	top:130px;
+	
+	
+}
+.circle{
+	
+	width:200px;
+	height:200px;
+	background: hotpink;
+	border-radius: 50%;
+	position:absolute;
+	left:40px;
+	top:375px;
+
+	
+}
+.oval{
+	
+	width:260px;
+	height:130px;
+	background: green;
+	border-radius: 130px/65px;
+	position:absolute;
+	right:30px;
+	top:400px;
+	
+
+	
+}
+.triangleup{
+	
+	width:0;
+	height:0;
+	border-bottom: 200px solid indigo;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	position:absolute;
+	left:400px;
+	top:85px;
+	
+
+
+	
+	
+	
+}
+.triangledown{
+	
+	
+    width:0;
+	height:0;
+	border-top: 200px solid Orange;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	margin:30px 50px 30px 50px;
+	position:absolute;
+	left:350px;
+	top:350px;
+	
+
+	
+	
+	
+}
+.triangleright{
+	
+	width:0;
+	height:0;
+	border-left: 200px solid black;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid transparent;
+	margin:30px 50px 30px 50px;
+	position:absolute;
+	left:700px;
+	top:350px;
+	
+	
+	
+	
+	
+}
+.triangleleft{
+	
+	width:0;
+	height:0;
+	border-right: 200px solid Yellow;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid transparent;
+	margin:30px 50px 30px 50px;
+	position:absolute;
+	left:700px;
+	top:65px;
+	
+	
+	
+	
+	
+}
+.farhan{
+	
+	<style="background-color:Grey;">
+	
+	
+}
